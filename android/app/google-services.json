@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398230564044",
+    "project_id": "ungquizth",
+    "storage_bucket": "ungquizth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398230564044:android:bdf167087a2cf64fbd2669",
+        "android_client_info": {
+          "package_name": "com.masterung.ungquizth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4dtFrldlYYRKGUcfOGoV2-hXGOX0SSoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
